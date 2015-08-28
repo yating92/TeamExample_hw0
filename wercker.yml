@@ -9,6 +9,6 @@ build:
   steps:
     - script:
         name: test R
-	code: |
-	  Rscript -e "sessionInfo()"
+        code: |
+          Rscript -e "sessionInfo()"
 
