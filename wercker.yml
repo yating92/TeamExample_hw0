@@ -6,9 +6,12 @@ build:
         name: echo
         code: |
           echo "hello world!"
-  steps:
     - script:
         name: test R
         code: |
           Rscript -e "sessionInfo()"
+    - script:
+        name: fail R
+        code: |
+          Rscript -e "stop()"
 
