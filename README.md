@@ -1,4 +1,4 @@
-[![wercker status](https://app.wercker.com/status/c9de8dbf581a5426b1aabcc69c3ae1e8/s/master "wercker status")](https://app.wercker.com/project/bykey/c9de8dbf581a5426b1aabcc69c3ae1e8)
+[![wercker status](https://app.wercker.com/status/b6713777c7bc8552f75fa4702d30dfe3/s/master "wercker status")](https://app.wercker.com/project/bykey/b6713777c7bc8552f75fa4702d30dfe3)
 
 # TeamExample
 
