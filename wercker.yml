@@ -3,15 +3,6 @@ box: rocker/hadleyverse
 build:
   steps:
     - script:
-        name: echo
-        code: |
-          echo "hello world!"
-    - script:
         name: test R
         code: |
-          Rscript -e "sessionInfo()"
-    - script:
-        name: fail R
-        code: |
-          Rscript -e "stop()"
-
+          Rscript -e "library(Rmarkdown);render('hw0.Rmd')"
