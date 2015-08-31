@@ -12,6 +12,8 @@ and your writeup matter for your overall grade.
 -->
 
 ```{r}
+x / 2
+
 fizzbuzz = function(n)
 {
 
